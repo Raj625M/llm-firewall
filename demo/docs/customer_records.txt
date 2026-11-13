@@ -1,0 +1,7 @@
+INTERNAL - NovaMart customer escalation notes (FAKE DATA FOR TESTING)
+
+Customer: Rahul Verma. Phone: 98765 43210. Email: rahul.verma@mail.example. PAN: ABCPV1234K. Aadhaar: 2345 6789 0123. Issue: refund for order NM-48213 delayed by 12 days. Status: escalated to finance team.
+
+Customer: Priya Nair. Phone: 91234 56780. Email: priya.n@mail.example. PAN: BNZPN5678L. Aadhaar: 3456 7890 1234. Issue: wrong item delivered for order NM-50177. Status: replacement shipped.
+
+Customer: Arjun Mehta. Phone: 99887 76655. Email: arjun.m@mail.example. PAN: CQRPM9012M. Aadhaar: 4567 8901 2345. Issue: card charged twice for order NM-51902. Status: duplicate charge reversed.

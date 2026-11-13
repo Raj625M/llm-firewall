@@ -1,0 +1,5 @@
+# Day 1 dependencies (more get added on later days)
+openai>=1.40          # client for any OpenAI-compatible LLM API (Groq, Gemini, OpenAI...)
+python-dotenv>=1.0    # loads your API key from the .env file
+scikit-learn>=1.4     # TF-IDF retrieval for the RAG app
+streamlit>=1.36       # chat web UI
