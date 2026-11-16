@@ -7,3 +7,6 @@ data/raw/
 models/
 notes/
 data/processed/
+results/errors_test.csv
+results/errors_test_finetuned.csv
+results/predictions_test.csv
